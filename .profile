@@ -4,7 +4,7 @@
 
 PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin:/usr/games:.
 export PATH HOME TERM
-export PKG_PATH=https://stable.mtier.org/updates/$(uname -r)/$(arch -s):http://ftp.hostserver.de/pub/OpenBSD/5.6/packages/i386
+export PKG_PATH=https://stable.mtier.org/updates/$(uname -r)/$(arch -s):http://ftp.hostserver.de/pub/OpenBSD/5.7/packages/i386
 PS1="\u@\h \w \$ "
 export EDITOR=vim
 HISTFILE=$HOME/.ksh_history
