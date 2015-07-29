@@ -6,6 +6,6 @@ PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/
 export PATH HOME TERM
 export PKG_PATH=https://stable.mtier.org/updates/$(uname -r)/$(arch -s):http://ftp.hostserver.de/pub/OpenBSD/5.7/packages/i386
 PS1="\u@\h \w \$ "
-export EDITOR=vim
+export EDITOR=mg
 HISTFILE=$HOME/.ksh_history
 set -o emacs
