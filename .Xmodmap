@@ -1,0 +1,8 @@
+keycode 66 = Control_L
+clear Lock
+add Control = Control_L
+keycode 117 = Caps_Lock
+
+keycode 234 = Super_L
+clear Mod4
+add Mod4 = Super_L
