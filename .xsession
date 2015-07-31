@@ -12,4 +12,5 @@ xset +fp /usr/local/lib/X11/fonts/Droid
 xset +fp /usr/local/lib/X11/fonts/ubuntu
 xmodmap ~/.Xmodmap
 parcellite &
+emacs --daemon &
 i3
