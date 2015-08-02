@@ -9,3 +9,4 @@ PS1="\u@\h \w \$ "
 export EDITOR="emacsclient -nw"
 HISTFILE=$HOME/.ksh_history
 set -o emacs
+export SMTPSERVER="posteo.de"
