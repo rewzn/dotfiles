@@ -13,4 +13,5 @@ xset +fp /usr/local/lib/X11/fonts/ubuntu
 xmodmap ~/.Xmodmap
 parcellite &
 emacs --daemon &
+unclutter &
 i3
